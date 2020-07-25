@@ -1,0 +1,23 @@
+{
+  "name": "lt-colouredui-maker",
+  "version": "0.1.0",
+  "description": "a little tool that makes \"coloured\" ui using a grayscale ui and imagemagick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCelestia/lt-colouredui-maker.git"
+  },
+  "author": "PCelestia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PCelestia/lt-colouredui-maker/issues"
+  },
+  "homepage": "https://github.com/PCelestia/lt-colouredui-maker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "wasm-imagemagick": "^1.2.7"
+  }
+}
